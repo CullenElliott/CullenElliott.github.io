@@ -1,0 +1,14 @@
+site_name: Cullen Elliott
+nav:
+  - Home: index.md
+  - About: about/about.md
+  - Portfolio: portfolio/portfolio.md
+  - Resume: resume/CullenElliott_resume.pdf
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+  features:
+    - navigation.tabs
+  # logo: assets/logo.png
